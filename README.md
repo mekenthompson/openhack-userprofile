@@ -26,4 +26,4 @@ npm run test
 
 There will be a junit formatted report file called userprofile-report.xml under the current userprofile directory `/reports` subfolder.
 
-#ab2 add unit testing
+AB#2 add unit testing
